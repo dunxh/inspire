@@ -20,12 +20,14 @@ ext {
     set('springCloudVersion', 'Greenwich.SR1')
 }
 dependencies {
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '2.2.0.RELEASE'
     implementation 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-server'
     implementation 'org.springframework.cloud:spring-cloud-starter-openfeign:2.0.2.RELEASE'
     compileOnly 'org.projectlombok:lombok'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testCompile group: 'junit', name: 'junit', version: '4.12'
     implementation project(':inspire-api')
+    implementation project(':inspire-common-bean')
 }
 dependencyManagement {
     imports {

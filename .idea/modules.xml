@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-api.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-api.iml" group="inspire-api" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-api/inspire-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-api/inspire-api_main.iml" group="inspire-api" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-api/inspire-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-api/inspire-api_test.iml" group="inspire-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-common-bean.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-common-bean.iml" group="inspire-common-bean" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-common-bean/inspire-common-bean_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-common-bean/inspire-common-bean_main.iml" group="inspire-common-bean" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-common-bean/inspire-common-bean_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-common-bean/inspire-common-bean_test.iml" group="inspire-common-bean" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-eureka.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-eureka.iml" group="inspire-eureka" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-eureka/inspire-eureka_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-eureka/inspire-eureka_main.iml" group="inspire-eureka" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-eureka/inspire-eureka_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-eureka/inspire-eureka_test.iml" group="inspire-eureka" />
@@ -17,6 +20,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-root.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-root.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-root_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-root_main.iml" group="inspire-root" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-root_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-root_test.iml" group="inspire-root" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-utils.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-utils.iml" group="inspire-utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-utils/inspire-utils_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-utils/inspire-utils_main.iml" group="inspire-utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-utils/inspire-utils_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-utils/inspire-utils_test.iml" group="inspire-utils" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-web.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-web.iml" group="inspire-web" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-web/inspire-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-web/inspire-web_main.iml" group="inspire-web" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-web/inspire-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-web/inspire-web_test.iml" group="inspire-web" />

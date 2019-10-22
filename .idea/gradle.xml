@@ -11,9 +11,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/inspire-api" />
+            <option value="$PROJECT_DIR$/inspire-common-bean" />
             <option value="$PROJECT_DIR$/inspire-eureka" />
             <option value="$PROJECT_DIR$/inspire-gateway" />
             <option value="$PROJECT_DIR$/inspire-producer" />
+            <option value="$PROJECT_DIR$/inspire-utils" />
             <option value="$PROJECT_DIR$/inspire-web" />
           </set>
         </option>

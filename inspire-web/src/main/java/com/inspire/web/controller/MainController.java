@@ -2,6 +2,8 @@ package com.inspire.web.controller;
 
 import com.inspire.entity.User;
 import com.inspire.web.com.inspire.service.ProducerService;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -12,22 +14,19 @@ import org.springframework.web.client.RestTemplate;
 @RestController("web")
 public class MainController {
 
-    @Bean
-    public RestTemplate restTemplate() {
-        return new RestTemplate();
-    }
+    public  static Logger logger= LoggerFactory.getLogger(MainController.class);
+
+
+
 
     @Autowired
     private ProducerService producerService;
 
-//    @Autowired
-//    private RestTemplate restTemplate;
 
     @GetMapping("/main")
     public User getMsg(){
+        logger.info("开始调用！");
         return producerService.getUser();
-//        return "d";
-//        return restTemplate.getForObject("http://localhost:8010/user/simple/" + id, User.class);
 
     }
 }

@@ -8,3 +8,8 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8762/eureka
+
+logging:
+  path: E:\logs\inspire-producer #打印存放日志的路径
+  level:
+    com.inspire: info #包名下日志的级别

@@ -21,3 +21,14 @@ zuul:
     inspireWeb:
       path: /web/**
       serviceId: inspire-web
+  host:
+    connect-timeout-millis: 15000
+    socket-timeout-millis: 60000
+ribbon:
+  ReadTimeout: 10000
+  ConnectTimeout: 10000
+
+logging:
+  path: E:\logs\inspire-gateway
+  level:
+    com.inspire: info

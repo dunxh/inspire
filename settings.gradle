@@ -4,4 +4,6 @@ include 'inspire-web'
 include 'inspire-gateway'
 include 'inspire-producer'
 include 'inspire-api'
+include 'inspire-utils'
+include 'inspire-common-bean'
 

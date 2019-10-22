@@ -20,6 +20,7 @@ ext {
 }
 
 dependencies {
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '2.2.0.RELEASE'
     compile("org.apache.httpcomponents:httpclient:4.5.2")
     compile("org.apache.httpcomponents:httpcore:4.4.4")
     implementation 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-server'

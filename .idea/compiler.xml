@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="inspire-api_main" target="1.8" />
       <module name="inspire-api_test" target="1.8" />
+      <module name="inspire-common-bean_main" target="1.8" />
+      <module name="inspire-common-bean_test" target="1.8" />
       <module name="inspire-eureka_main" target="1.8" />
       <module name="inspire-eureka_test" target="1.8" />
       <module name="inspire-gateway_main" target="1.8" />
@@ -12,6 +14,8 @@
       <module name="inspire-producer_test" target="1.8" />
       <module name="inspire-root_main" target="1.8" />
       <module name="inspire-root_test" target="1.8" />
+      <module name="inspire-utils_main" target="1.8" />
+      <module name="inspire-utils_test" target="1.8" />
       <module name="inspire-web_main" target="1.8" />
       <module name="inspire-web_test" target="1.8" />
     </bytecodeTargetLevel>
