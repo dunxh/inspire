@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: inspire-gateway
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8762/eureka
+  instance:
+    instance-id: inspire-gateway #自定义服务名称信息
+    prefer-ip-address: true #访问路径可以显示ip地址 #注册服务使用ip地址
+
+server:
+  port: 8080
+
+zuul:
+  routes:
+    inspireProducter:
+      path: /producer/**
+      serviceId: inspire-producter
+    inspireWeb:
+      path: /web/**
+      serviceId: inspire-web

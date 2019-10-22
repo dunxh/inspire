@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-api.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-api.iml" group="inspire-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-api/inspire-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-api/inspire-api_main.iml" group="inspire-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-api/inspire-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-api/inspire-api_test.iml" group="inspire-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-eureka.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-eureka.iml" group="inspire-eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-eureka/inspire-eureka_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-eureka/inspire-eureka_main.iml" group="inspire-eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-eureka/inspire-eureka_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-eureka/inspire-eureka_test.iml" group="inspire-eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-gateway.iml" group="inspire-gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-gateway/inspire-gateway_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-gateway/inspire-gateway_main.iml" group="inspire-gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-gateway/inspire-gateway_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-gateway/inspire-gateway_test.iml" group="inspire-gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-producer.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-producer.iml" group="inspire-producer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-producer/inspire-producer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-producer/inspire-producer_main.iml" group="inspire-producer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-producer/inspire-producer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-producer/inspire-producer_test.iml" group="inspire-producer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-root.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-root_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-root_main.iml" group="inspire-root" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-root_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-root_test.iml" group="inspire-root" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-web.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-web.iml" group="inspire-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-web/inspire-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-web/inspire-web_main.iml" group="inspire-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspire-web/inspire-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inspire-web/inspire-web_test.iml" group="inspire-web" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="inspire-api_main" target="1.8" />
+      <module name="inspire-api_test" target="1.8" />
+      <module name="inspire-eureka_main" target="1.8" />
+      <module name="inspire-eureka_test" target="1.8" />
+      <module name="inspire-gateway_main" target="1.8" />
+      <module name="inspire-gateway_test" target="1.8" />
+      <module name="inspire-producer_main" target="1.8" />
+      <module name="inspire-producer_test" target="1.8" />
+      <module name="inspire-root_main" target="1.8" />
+      <module name="inspire-root_test" target="1.8" />
+      <module name="inspire-web_main" target="1.8" />
+      <module name="inspire-web_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

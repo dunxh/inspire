@@ -1,0 +1,18 @@
+package com.inspire.filter;
+
+import javax.servlet.*;
+import java.io.IOException;
+
+public class AccessFilter  implements Filter {
+
+    @Override
+    public void init(FilterConfig filterConfig) throws ServletException {
+//        logger.info("suFilter is init+>>>>>");
+    }
+
+
+    @Override
+    public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain) throws IOException, ServletException {
+        chain.doFilter(request, response);
+    }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":inspire-eureka" external.linked.project.path="$MODULE_DIR$/../../inspire-eureka" external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="com.inspire" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../inspire-eureka">
+      <excludeFolder url="file://$MODULE_DIR$/../../inspire-eureka/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../inspire-eureka/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../inspire-eureka/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
